@@ -1,4 +1,4 @@
-# ⚔️ Warborne Reborn - Advanced Multiboxing Tool
+# ⚔️ Warborne  - Advanced Multiboxing Tool
 
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
