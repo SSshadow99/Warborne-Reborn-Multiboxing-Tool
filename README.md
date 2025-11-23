@@ -7,9 +7,9 @@
 **Warborne Reborn** is a high-performance, low-latency input broadcasting tool designed for controlling multiple game clients simultaneously.  
 It works flawlessly on:
 
-- **Warborne**
-- **Albion Online**
-- **World of Warcraft** (Retail, Classic, WotLK, private servers)
+- **Warborne** 
+- **Albion Online** 
+- **World of Warcraft** (Retail, Classic, WotLK, private servers) 
 - **Any MMORPG** or game with similar interaction systems
 
 Powered by **native Win32 API**, the tool provides pixel-perfect input mirroring with zero dependency on game memory.  
@@ -78,3 +78,7 @@ Protected by a custom loader using:
 This tool does **not** inject, modify, or interact with any game memory.  
 The developer is not responsible for any actions taken by game companies.
 
+#HACK Warborne  
+#HACK Albion Online 
+#HACK World of Warcraft
+#HACK Any MMORPG
